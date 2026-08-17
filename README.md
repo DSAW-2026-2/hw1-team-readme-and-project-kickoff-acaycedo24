@@ -1,6 +1,9 @@
 # team-readme-kickoff
 
 
+## LINK DE DESPLIEGUE
+https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-acaycedo24/
+
 # ConectaNegocio
 
 
@@ -88,9 +91,4 @@ para productos similares y recordar lo acordado en conversaciones sueltas.
 - **Qué cambió respecto a lo que generó la IA:** se reemplazaron ideas de proyecto iniciales (seguimiento de tesis, mantenimiento de conjuntos) por la que sí se validó con el caso real discutido en clase; se corrigieron los identificadores de código a inglés; se completaron los nombres reales del equipo.
 - **Por qué se hicieron esos cambios:** para que el documento reflejara el problema realmente validado por el equipo y no un ejemplo genérico, y para cumplir la convención de idioma del curso.
 
-## Deploy
-
-- GitHub Pages: *(lo agregamos en el Paso 5, cuando exista)*
-- Figma:   
-https://www.figma.com/design/i0LHQGczrAGr6AqProBqJV/Proyecto-DSAW?node-id=0-1&t=ZS6t7uOzXtOQ8xty-1
 
