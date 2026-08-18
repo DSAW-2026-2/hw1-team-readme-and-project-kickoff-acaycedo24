@@ -1,8 +1,20 @@
-# team-readme-kickoff
+# HW02 — Team-readme-kickoff
 
 
 ## LINK DE DESPLIEGUE
 https://dsaw-2026-2.github.io/hw1-team-readme-and-project-kickoff-acaycedo24/
+
+## Nombre estudiante:
+Alejandro Caycedo Montero 
+
+## Nombre grupo e integrantes de grupo:
+
+CONECTANEGOCIO - (Nombre grupo)
+
+- Sebastian Franco Umbacia
+- Catalina Vega Romero
+- Jose Alejandro Melo
+- Alejandro Caycedo Montero
 
 # ConectaNegocio
 
